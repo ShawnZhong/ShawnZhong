@@ -7,7 +7,7 @@
 
 - To be updated
 
-## 📚 Major Courses Taken in UW-Madison 
+## 📚 Courses Taken in UW-Madison 
 
 Undergraduate
 - Fall 2017: CS 300 (Programming II), CS 352 (Digital System Fundamentals), Math 375 (Multi-Var Calc & Linear Alg), Math 431 (Probability)
