@@ -1,8 +1,11 @@
 ## 👋 Hi there
 
 - 📫 How to reach me: github@shawnzhong.com
-- 💻 Personal website: shawnzhong.com
+- 💻 Personal website: https://shawnzhong.com
 
+## 🧰 Projects
+
+- To be updated
 
 ## 📚 Major Courses Taken in UW-Madison 
 
