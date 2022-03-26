@@ -6,53 +6,24 @@
 
 ## 📚 Major Courses Taken in UW-Madison 
 
-Fall 2017 (Freshman)
-- CS 300
-- CS 352
-- Math 375
-- Math 431
+Freshman
+- Fall 2017: CS 300 (Programming II), CS 352 (Digital System Fundamentals), Math 375 (Multi-Var Calc & Linear Alg), Math 431 (Probability)
+- Spring 2017: CS 252 (Intro to Computer Engineering), CS 400 (Programming III), Math 240 (Discrete Math), Math 521 (Analysis), Math 541 (Modern Algebra)
 
-Spring 2017 (Freshman)
-- CS 252
-- CS 400
-- Math 240
-- Math 521
-- Math 541
 
-Fall 2018 (Sophomore)
-- CS 354
-- CS 514
-- CS 540
-- CS 577
-- Math 632 
+Sophomore
+- Fall 2018: CS 354 (Machine Organizatn & Programming), CS 514 (Numerical Analysis), CS 540 (Intro to AI), CS 577 (Algorithms), Math 632 (Stochastic Processes)
+- Spring 2018: CS 536 (Compiler), CS 537 (OS), CS 564 (Database), CS 639 (Software Security) 
 
-Spring 2018 (Sophomore)
-- CS 536
-- CS 537
-- CS 564
-- CS 639 
+Junior
+- Fall 2019: CS 576 (Bioinformatics), CS 640 (Network), CS 744 (Big Data Systems)
+- Spring 2019: N/A
 
-Fall 2019 (Junior)
-- CS 576
-- CS 640
-- CS 744
+1st-year Ph.D.
+- Fall 2020: CS 703 (Program Verification & Synthesis), CS 736 (Advanced OS), CS 764 (Advanced DB), CS 838 (MLOS Seminar)
+- Spring 2020: CS 524（Optimization), CS 739 (Distributed Systems), CS 760 (ML)
 
-Fall 2020 (1st-year Ph.D.)
-- CS 703
-- CS 736
-- CS 764
-- CS 838: MLOS
-
-Spring 2020 (1st-year Ph.D.)
-- CS 524
-- CS 739
-- CS 760
-
-Fall 2021 (2nd-year Ph.D.)
-- CS 839: Blockchain
-- CS 839: Persistent Memory
-
-Spring 2021 (2nd-year Ph.D.)
-- CS 740
-- CS 839: MLSYS
+2nd-year Ph.D.
+- Fall 2021: CS 839 (Blockchain), CS 839 (Persistent Memory)
+- Spring 2021: CS 740 (Advanced Network), CS 839 (Machine Learning System)
 
