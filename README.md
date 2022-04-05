@@ -20,6 +20,8 @@ Undergraduate
 
 - Fall 2019: CS 576 (Bioinformatics), CS 640 (Network), CS 744 (Big Data Systems)
 
+- Spring 2020: CS 759 (High Performance Computing)
+
 Ph.D.
 - Fall 2020: CS 703 (Program Verification & Synthesis), CS 736 (Advanced OS), CS 764 (Advanced DB), CS 838 (MLOS Seminar)
 
