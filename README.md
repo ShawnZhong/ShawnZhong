@@ -23,7 +23,7 @@ Undergraduate
 Ph.D.
 - Fall 2020: CS 703 (Program Verification & Synthesis), CS 736 (Advanced OS), CS 764 (Advanced DB), CS 838 (MLOS Seminar)
 
-- Spring 2020: CS 524（Intro to Optimization), CS 739 (Distributed Systems), CS 760 (Machine Learning)
+- Spring 2020: CS 524 (Intro to Optimization), CS 739 (Distributed Systems), CS 760 (Machine Learning)
 
 - Fall 2021: CS 839 (Blockchains and Decentralized Applications), CS 839 (Persistent Memory)
 
