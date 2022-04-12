@@ -3,6 +3,9 @@
 - 📫 How to reach me: github@shawnzhong.com
 - 💻 Personal website: https://shawnzhong.com
 
+## 📝 Publications
+- Zhao Jinman, **Shawn Zhong**, Xiaomin Zhang, and Yingyu Liang. 2020. [PBoS: Probabilistic Bag-of-Subwords for Generalizing Word Embedding](https://aclanthology.org/2020.findings-emnlp.53/). In Findings of the Association for Computational Linguistics: EMNLP 2020, pages 596–611, Online. Association for Computational Linguistics.
+
 ## 🧰 Projects
 
 - To be updated
