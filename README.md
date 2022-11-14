@@ -29,6 +29,7 @@
 
 <details>
 <summary>Ph.D. (Fall 2020 - )</summary>
+
 - Fall 2020: CS 703 (Program Verification & Synthesis), CS 736 (Advanced OS), CS 764 (Advanced DB), CS 838 (MLOS Seminar)
 
 - Spring 2020: CS 524 (Intro to Optimization), CS 739 (Distributed Systems), CS 760 (Machine Learning)
@@ -36,4 +37,6 @@
 - Fall 2021: CS 839 (Blockchains and Decentralized Applications), CS 839 (Persistent Memory)
 
 - Spring 2021: CS 740 (Advanced Network), CS 839 (Machine Learning System)
+  
+- Fall 2022: CS 839 (Image Synthesis), ECE 439 (Introduction to Robotics)
 </details>
