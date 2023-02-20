@@ -5,14 +5,14 @@
 
 ## 📝 Publications
 - **MadFS: Per-File Virtualization for Userspace Persistent Memory Filesystems**  
-   Shawn Zhong, Chenhao Ye, Guanzhou Hu, Suyan Qu, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, and Michael Swift. 2023.
+   Shawn Zhong, Chenhao Ye, Guanzhou Hu, Suyan Qu, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, and Michael Swift.  
    [FAST '23](https://www.usenix.org/conference/fast23/presentation/zhong). 
    [GitHub](https://github.com/ShawnZhong/MadFS).
 
 - **PBoS: Probabilistic Bag-of-Subwords for Generalizing Word Embedding**  
-  Zhao Jinman, Shawn Zhong, Xiaomin Zhang, and Yingyu Liang. 
+  Zhao Jinman, Shawn Zhong, Xiaomin Zhang, and Yingyu Liang.  
   [EMNLP '20](https://aclanthology.org/2020.findings-emnlp.53). 
-  [GitHub](https://github.com/jmzhao/pbos)
+  [GitHub](https://github.com/jmzhao/pbos).
 
 
 
