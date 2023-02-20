@@ -4,7 +4,19 @@
 - 💻 Personal website: https://shawnzhong.com
 
 ## 📝 Publications
-- Zhao Jinman, **Shawn Zhong**, Xiaomin Zhang, and Yingyu Liang. 2020. [PBoS: Probabilistic Bag-of-Subwords for Generalizing Word Embedding](https://aclanthology.org/2020.findings-emnlp.53/). In Findings of the Association for Computational Linguistics: EMNLP 2020, pages 596–611, Online. Association for Computational Linguistics.
+- MadFS: Per-File Virtualization for Userspace Persistent Memory Filesystems.
+
+   **Shawn Zhong**, Chenhao Ye, Guanzhou Hu, Suyan Qu, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, and Michael Swift. 2023.  
+   [FAST '23 Link](https://www.usenix.org/conference/fast23/presentation/zhong). 
+   [GitHub Link](https://github.com/ShawnZhong/MadFS).
+
+- PBoS: Probabilistic Bag-of-Subwords for Generalizing Word Embedding
+  
+  Zhao Jinman, **Shawn Zhong**, Xiaomin Zhang, and Yingyu Liang. 
+  [EMNLP '20 Link](https://aclanthology.org/2020.findings-emnlp.53). 
+  [GitHub Link](https://github.com/jmzhao/pbos)
+
+
 
 ## 🧰 Projects
 
