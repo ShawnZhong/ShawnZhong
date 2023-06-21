@@ -34,7 +34,7 @@
 
 - Fall 2019: CS 576 (Bioinformatics), CS 640 (Network), CS 744 (Big Data Systems)
 
-- Spring 2020: CS 759 (High Performance Computing)
+- Spring 2020: CS 759 (High-Performance Computing)
 </details>
 
 <details>
@@ -49,4 +49,6 @@
 - Spring 2022: CS 740 (Advanced Network), CS 839 (Machine Learning System)
   
 - Fall 2022: CS 839 (Image Synthesis), ECE 439 (Introduction to Robotics)
+
+- Spring 2023: CS 761 (Mathematical Machine Learning)
 </details>
