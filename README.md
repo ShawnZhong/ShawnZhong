@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: github@shawnzhong.com
 - 💻 Personal website: https://shawnzhong.com
-- 📄 Resume: https://shawnzhong.github.io/Resume/resume.pdf
+- 📄 Resume: [resume.pdf](https://shawnzhong.github.io/Resume/resume.pdf)
 
 ## 📝 Publications
 - **MadFS: Per-File Virtualization for Userspace Persistent Memory Filesystems**  
