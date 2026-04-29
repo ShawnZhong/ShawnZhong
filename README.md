@@ -4,23 +4,6 @@
 - 💻 Personal website: https://shawnzhong.com
 - 📄 Resume: [resume.pdf](https://shawnzhong.github.io/Resume/resume.pdf)
 
-## 📝 Publications
-- **MadFS: Per-File Virtualization for Userspace Persistent Memory Filesystems**  
-   Shawn Zhong, Chenhao Ye, Guanzhou Hu, Suyan Qu, Andrea Arpaci-Dusseau, Remzi Arpaci-Dusseau, and Michael Swift.  
-   [FAST '23](https://www.usenix.org/conference/fast23/presentation/zhong). 
-   [GitHub](https://github.com/ShawnZhong/MadFS).
-
-- **PBoS: Probabilistic Bag-of-Subwords for Generalizing Word Embedding**  
-  Zhao Jinman, Shawn Zhong, Xiaomin Zhang, and Yingyu Liang.  
-  [EMNLP '20](https://aclanthology.org/2020.findings-emnlp.53). 
-  [GitHub](https://github.com/jmzhao/pbos).
-
-
-
-## 🧰 Projects
-
-- To be updated
-
 ## 📚 Courses Taken in UW-Madison 
 <details>
 <summary>Undergraduate (Fall 2017 - Spring 2020)</summary>
